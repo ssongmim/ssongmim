@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ### 🧑‍🤝‍🧑 Co-working Tools 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/git-F34F29?style=flat&logo=git&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white" /> &nbsp
